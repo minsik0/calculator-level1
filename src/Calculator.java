@@ -6,7 +6,6 @@ public class Calculator {
         Scanner sc = new Scanner(System.in);
 
         ArrayList<Integer> intList1 = new ArrayList<Integer>();
-        ArrayList<Integer> test = new ArrayList<>();
 
         int result = 0;
 
